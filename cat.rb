@@ -1,1 +1,1 @@
-puts "cats"
+puts "cat"
